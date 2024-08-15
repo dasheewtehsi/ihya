@@ -47,6 +47,7 @@
 
 ### 推荐的虚拟信用卡开卡平台
 
-如果您在支付过程中遇到任何问题，或需要一个更灵活的支付方案，推荐使用 [FOMEPay](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)。这个平台提供多种卡头，支持微信和支付宝支付，非常适合需要海外订阅和购物的用户。
+推荐一个虚拟信用卡开卡平台，包含香港、美国万事达 VISA 等多种卡头，0 月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.dupay.one/](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)
 
 通过上述教程，您可以选择最适合您的支付方式，在中国大陆地区顺利充值并享受 ChatGPT Plus 的服务。
+
